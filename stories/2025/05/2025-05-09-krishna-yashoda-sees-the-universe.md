@@ -35,4 +35,4 @@ Yet, this illumination wrapped in tender epiphany fades as swiftly as it came, a
 
 ## Images
 
-
+![Krishna - Yashoda Sees the Universe - Variation 1](https://raw.githubusercontent.com/amarshat/mithila-content/main/images/2025/05/2025-05-09-pm-krishna-yashoda-sees-the-universe.png)
