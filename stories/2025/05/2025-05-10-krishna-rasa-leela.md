@@ -31,4 +31,4 @@ Culturally significant, the Rasa Leela marks a singular moment in myth where the
 
 ## Images
 
-
+![Krishna - Rasa Leela - Variation 1](https://raw.githubusercontent.com/amarshat/mithila-content/main/images/2025/05/2025-05-10-pm-krishna-rasa-leela.png)
