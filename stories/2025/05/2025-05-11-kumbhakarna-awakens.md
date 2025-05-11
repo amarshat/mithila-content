@@ -33,6 +33,6 @@ In that vibrant tableau, as Kumbhakarna towers toward the heavens, he symbolizes
 
 ## Images
 
-![Kumbhakarna Awakens - Variation 1](https://raw.githubusercontent.com/amarshat/mithila-content/main/images/2025/05/2025-05-11-am-kumbhakarna-awakens.png)
+![Kumbhakarna Awakens - Variation 1](https://raw.githubusercontent.com/amarshat/mithila-content/main/images/2025/05/2025-05-11-pm-kumbhakarna-awakens.png)
 
 ![Kumbhakarna Awakens - Variation 2](https://raw.githubusercontent.com/amarshat/mithila-content/main/images/2025/05/2025-05-11-pm-kumbhakarna-awakens.png)
