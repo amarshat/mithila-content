@@ -25,4 +25,4 @@ In this sacred encounter, Kunti recognized Krishna as more than flesh and kin; h
 
 ## Images
 
-
+![Krishna - Kunti Meets Krishna - Variation 1](https://raw.githubusercontent.com/amarshat/mithila-content/main/images/2025/05/2025-05-11-pm-krishna-kunti-meets-krishna.png)
