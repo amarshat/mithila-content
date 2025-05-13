@@ -33,6 +33,6 @@ The tale of Hanuman and Surya is more than a story of knowledge and bravery; it 
 
 ## Images
 
-![Hanuman and Surya - Variation 1](https://raw.githubusercontent.com/amarshat/mithila-content/main/images/2025/05/2025-05-13-am-hanuman-and-surya.png)
+![Hanuman and Surya - Variation 1](https://raw.githubusercontent.com/amarshat/mithila-content/main/images/2025/05/2025-05-13-pm-hanuman-and-surya.png)
 
 ![Hanuman and Surya - Variation 2](https://raw.githubusercontent.com/amarshat/mithila-content/main/images/2025/05/2025-05-13-pm-hanuman-and-surya.png)
