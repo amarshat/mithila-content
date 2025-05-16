@@ -33,4 +33,4 @@ Through ash and smoke, the spirit of hope and retribution rises unvanquished, fo
 
 ## Images
 
-
+![Lanka Dahan - Variation 1](https://raw.githubusercontent.com/amarshat/mithila-content/main/images/2025/05/2025-05-16-pm-lanka-dahan.png)
