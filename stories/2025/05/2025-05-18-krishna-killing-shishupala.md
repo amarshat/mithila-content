@@ -31,4 +31,4 @@ Thus, Shishupala was liberated from the chains of anger, and in death's embrace,
 
 ## Images
 
-
+![Krishna - Killing Shishupala - Variation 1](https://raw.githubusercontent.com/amarshat/mithila-content/main/images/2025/05/2025-05-18-pm-krishna-killing-shishupala.png)
