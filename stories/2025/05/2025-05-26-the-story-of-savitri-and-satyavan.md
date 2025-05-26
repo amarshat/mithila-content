@@ -31,4 +31,4 @@ Thus, Savitri’s triumph resonated like a sacred chime through the corridors of
 
 ## Images
 
-
+![The Story of Savitri and Satyavan - Variation 1](https://raw.githubusercontent.com/amarshat/mithila-content/main/images/2025/05/2025-05-26-pm-the-story-of-savitri-and-satyavan.png)
