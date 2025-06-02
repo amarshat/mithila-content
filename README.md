@@ -1,2 +1,2 @@
 # mithila-content
-Mithila.ai content repository for stories and images
+[Mithila.ai](https://mithila.ai) content repository for stories and images
