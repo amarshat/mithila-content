@@ -10,12 +10,12 @@ key_elements: ""
 *Generated on September 7, 2025*
 
 ENGLISH:
-
-## Hindi Summary
-
 Amidst the dance of stars and the gentle hum of Ganga’s flow, unfolds the heartwarming saga of "बाप-बेटा: Shiv Ganesh ki Prem Leela". Here, amidst the vibrant hues of Mithila art, Shiva and Ganesha transcend their celestial thrones to embrace the simple joys of fatherhood. Shiva, with his dreadlocked tresses resembling the ancient forests, and Ganesha, with his gentle laughter that echoes the playful chatter of divine clouds, weave an immortal tale of cosmic kinship. Together, they paint the skies with stories, each brushstroke a testament to love eternal.
 
 Beneath the canopy of the universe, they find solace in the rhythm of life. Playing chess under the canopy of stars, the father and son unearth cosmic secrets within the folds of the board. Their hands are stained with colors of the earth as they paint on empty canvases, their laughter as sweet as the fragrance of night-blooming flowers. These scenes, lovingly captured in the intricate motifs of Mithila art, remind us that divinity is woven into the everyday tapestry of life. Beyond grand temples, it thrives in moments of shared joy, in the simple acts of flying kites, dancing, and sharing meals — a celebration of love and legacy.
+
+
+## Hindi Summary
 
 HINDI:
 
