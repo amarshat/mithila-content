@@ -1,7 +1,7 @@
 ---
 title: "Sita Ka Dukh"
 date: "June 10, 2026"
-blog_title: "Sita Ka Dukh"
+blog_title: "सीता का दुःख"
 key_elements: ""
 ---
 
@@ -9,13 +9,11 @@ key_elements: ""
 
 *Generated on June 10, 2026*
 
-ENGLISH:
-
-## Hindi Summary
-
-In the heart of Lanka's distant embrace, beneath the grand Ashok tree's eternal arms, Sita sits—a beacon of dignified sorrow. The moon casts its gentle glow over her, weaving a tapestry of light and shadow on her plain saree. Nature stands still, adorned in vivid hues, yet her heart echoes only the poignant notes of विरह, the separation from her beloved Ram. The Ashok Vatika, with its serene beauty, turns into a canvas of her quiet suffering, a stage for a story painted in the subtle strokes of Mithila art, where every line sings of an unmatched resilience.
+ENGLISH: In the heart of Lanka's distant embrace, beneath the grand Ashok tree's eternal arms, Sita sits—a beacon of dignified sorrow. The moon casts its gentle glow over her, weaving a tapestry of light and shadow on her plain saree. Nature stands still, adorned in vivid hues, yet her heart echoes only the poignant notes of विरह, the separation from her beloved Ram. The Ashok Vatika, with its serene beauty, turns into a canvas of her quiet suffering, a stage for a story painted in the subtle strokes of Mithila art, where every line sings of an unmatched resilience.
 
 The night listens to her silent prayer, a hymn of unwavering faith and inner strength. Each leaf quivers with her longing, as if echoing the sacred vows that bind her soul to Ram. No spectacle befits this moment; it is a scene of sacred solitude, where time bows to her steadfast heart. The palace of Lanka stands distant, a monarch in its own right, yet within the confines of this humble garden lies a queen, crowned by her own dignity. ‘Sita Ka Dukh’—a tale of profound grief, yet an ode to love's transcendent power—emerges a masterpiece etched forever in the realm of Mithila’s narrative tradition.
+
+## Hindi Summary
 
 HINDI:
 
